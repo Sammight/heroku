@@ -10,6 +10,6 @@
     }
   ],
   "app": {
-    name: "siban-root"
+    "name": "siban-root"
   }
 }
