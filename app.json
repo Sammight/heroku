@@ -3,5 +3,5 @@
   "description": "Create a new stack without sudo error",
   "website": "https://github.com/abakasam",
   "repository": "https://github.com/Sammight/heroku",
-  "stack": "heroku-20'
+  "stack": "heroku-20"
 }
